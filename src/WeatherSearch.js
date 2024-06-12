@@ -53,7 +53,7 @@ export default function WeatherSearch() {
       <footer>
         Coded by{" "}
         <a href="https://github.com/Skyelene" target="_blank" rel="noreferrer">
-          Rachel Buday,
+          Rachel Buday,{" "}
         </a>
         Open-sourced on{" "}
         <a
@@ -61,7 +61,7 @@ export default function WeatherSearch() {
           target="_blank"
           rel="noreferrer"
         >
-          GitHub
+          GitHub{" "}
         </a>
         and hosted on{" "}
         <a
