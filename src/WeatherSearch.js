@@ -51,11 +51,11 @@ export default function WeatherSearch() {
         </ul>
       )}
       <footer>
-        Coded by
+        Coded by{" "}
         <a href="https://github.com/Skyelene" target="_blank" rel="noreferrer">
           Rachel Buday,
         </a>
-        Open-sourced on
+        Open-sourced on{" "}
         <a
           href="https://github.com/Skyelene/Weather-App-React"
           target="_blank"
@@ -63,7 +63,7 @@ export default function WeatherSearch() {
         >
           GitHub
         </a>
-        and hosted on
+        and hosted on{" "}
         <a
           href="https://wetter-app-mit-react.netlify.app/"
           target="_blank"
