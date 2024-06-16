@@ -42,11 +42,9 @@
   margin-right: 10px;
 }
 
-.Weather img {
+.Weather canvas {
   float: left;
-  height: 64px;
-  width: 64px;
-  margin-right: 10px;
+  margin-right: 5px;
 }
 
 .Weather .temperature {
