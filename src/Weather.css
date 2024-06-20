@@ -48,7 +48,6 @@ body {
 }
 
 .Weather canvas {
-  float: left;
   margin-right: 5px;
 }
 
