@@ -12,7 +12,7 @@ export default function App() {
           <a
             href="https://github.com/Skyelene"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             Rachel Buday,
           </a>{" "}
@@ -20,7 +20,7 @@ export default function App() {
           <a
             href="https://github.com/Skyelene/Weather-App-React"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             GitHub
           </a>{" "}
@@ -28,7 +28,7 @@ export default function App() {
           <a
             href="https://wetter-app-mit-react.netlify.app/"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             Netlify.
           </a>
