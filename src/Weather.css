@@ -16,7 +16,7 @@ body {
 .Weather h1 {
   font-size: 24px;
   font-weight: 100;
-  margin: 20px 0 0 0;
+  margin: 20px 0px;
   height: 28px;
   line-height: 29px;
   text-align: left;
@@ -47,8 +47,17 @@ body {
   margin-right: 10px;
 }
 
+.float-right {
+  float: right;
+  margin-right: 20px;
+}
+
 .Weather canvas {
   margin-right: 5px;
+}
+
+.WeatherInfo {
+  margin: 15px;
 }
 
 .Weather .temperature {
@@ -67,4 +76,8 @@ body {
   line-height: 1;
   vertical-align: top;
   margin-left: 5px;
+}
+
+.Forecast-day {
+  margin: 15px;
 }
